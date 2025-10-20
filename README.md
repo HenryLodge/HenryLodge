@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Computer Science Major + Manegement Information Systems Minor @ Northeastern University
+#### Computer Science Major + Manegement Information Systems Minor @ Northeastern University <br>
 ##### Trenton, NJ --> Boston, MA --> ???
 
 
