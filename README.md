@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Computer Science Major + Manegement Information Systems Minor @ Northeastern University
-#### Trenton, NJ --> Boston, MA --> ???
+##### Trenton, NJ --> Boston, MA --> ???
 
 
 - ⚙️ I create with: `.ts`, `.js`, `.py`, `.cpp`, `.java`, `.html`, `.css`, `.sql`
