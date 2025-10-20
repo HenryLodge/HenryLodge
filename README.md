@@ -1,6 +1,7 @@
 ### Hi there, I'm Henry👋
 
 #### Computer Science Major + Manegement Information Systems Minor @ Northeastern University
+#### Open to Summer 2026 Interships and Co-ops (Aug 2026). Reach me at 'hlcodes01@gmail.com'
 
 - 📍 Trenton, NJ --> Boston, MA --> ???
 - ⚙️ I create with: `.ts`, `.js`, `.py`, `.cpp`, `.java`, `.html`, `.css`, `.sql`
