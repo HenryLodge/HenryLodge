@@ -1,6 +1,6 @@
 ### Hi there, I'm Henry👋
 
-#### Computer Science Major + Manegement Information Systems Minor @ Northeastern University
+#### Computer Science Major + Management Information Systems Minor @ Northeastern University
 #### Open to Summer 2026 Interships and Co-ops (Aug 2026). Reach me at `hlcodes01@gmail.com`
 
 - 📍 Boston, MA
