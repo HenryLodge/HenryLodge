@@ -7,5 +7,5 @@
 - ⚙️ I create with: `.ts`, `.js`, `.py`, `.cpp`, `.java`, `.sol`, `.html`, `.css`, `.sql`
 - 🔨 I build with: `React`, `Svelte`, `FastAPI`
 - ☁️ I work with: `Git`, `S3`, `EC2`, `Cloudfront`, `Docker`, `NPM`, `Vite`, `Firebase`
-- 🌱 Working On: **VSWallet, your workflow meets Web3.** A self-custodial Ethereum wallet built right into your VSCode editor
+- 🌱 Working On: 🤫🤫🤫
 - 💬 Contact me to collaborate!
