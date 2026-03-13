@@ -9,3 +9,5 @@
 - ☁️ I work with: `Git`, `S3`, `EC2`, `Cloudfront`, `Docker`, `NPM`, `Vite`, `Firebase`
 - 🌱 Working On: 🤫🤫🤫
 - 💬 Contact me to collaborate!
+
+### [LinkedIn](https://www.linkedin.com/in/henrylodge/)  |  [Resume](https://www.henrylodge.com/HenryLodge_Resume.pdf)  |  [henrylodge.com](https://www.henrylodge.com)
