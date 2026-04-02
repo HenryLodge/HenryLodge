@@ -7,7 +7,7 @@
 - ⚙️ I create with: `.ts`, `.js`, `.py`, `.cpp`, `.java`, `.sol`, `.html`, `.css`, `.sql`
 - 🔨 I build with: `React`, `Svelte`, `FastAPI`
 - ☁️ I work with: `Git`, `S3`, `EC2`, `Cloudfront`, `Docker`, `NPM`, `Vite`, `Firebase`
-- 🌱 Working On: 🐈‍⬛
+- 🌱 Working On: myself
 - 💬 Contact me to collaborate!
 
 ### [LinkedIn](https://www.linkedin.com/in/henrylodge/)  |  [henrylodge.com](https://www.henrylodge.com)
